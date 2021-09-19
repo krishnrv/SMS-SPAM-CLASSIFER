@@ -26,5 +26,5 @@ We carried the following steps to get the classifier :
     
     Model Evaluation
     
-    
+   This classifier gave an accuracy of 96%. 
 
